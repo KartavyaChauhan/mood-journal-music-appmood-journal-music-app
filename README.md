@@ -62,7 +62,7 @@ Improvements With More Time
 - Convert to mobile-first layout or PWA for better usability
 
 Live Demo
-You can try the app here: https://mood-journal-music-appmood-journal-music-app-yvfemmtut4iemarkt.streamlit.app/
+You can try the app here: [https://mood-journal-music-appmood-journal-music-app-yvfemmtut4iemarkt.streamlit.app/](https://mood-journal-music-appmood-journal-music-app-yvfemmtut4iemarkt.streamlit.app/)
 
 Repository Structure
 .
